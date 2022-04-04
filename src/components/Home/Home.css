@@ -1,7 +1,8 @@
 .reviews-container {
     margin-left: 100px;
 }
-/* .bg-color {
+.bg-color {
     background-color: #EFEFEF;
     height: 100%;
-} */
+    color: #42e081;
+}

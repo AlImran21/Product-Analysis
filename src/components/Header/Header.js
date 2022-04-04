@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className='sticky top-0 bg-slate-200 px-12 py-8 flex justify-center md:justify-between'>
             <div className='hidden md:block'>
-                <Link to='/' className='font-sans font-bold text-xl text-grey-600'>A Book Reviewed</Link>
+                <Link to='/' className='font-mono font-bold text-xl text-grey-600'>A Book Reviewed</Link>
             </div>
             <div className='flex gap-4 text-xl font-semibold'>
                 <CustomLink to='/'>Home</CustomLink>
