@@ -77,7 +77,7 @@ const Dashboard = () => {
                     <YAxis></YAxis>
                 </LineChart>
             </div>
-            <div className='mt-20'>
+            <div className='mt-20 mb-40'>
                 <BarChart width={730} height={500} data={data}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />

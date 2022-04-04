@@ -1,10 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import UseReviews from '../../hooks/UseReviews';
 import Reviews from '../Reviews/Reviews';
 import './Home.css'
 
 const Home = () => {
     const [reviews, setReviews] = UseReviews();
+
+
     return (
         <div>
             <div className='flex justify-items-center items-center justify-around'>
@@ -29,7 +32,9 @@ const Home = () => {
                         ></Reviews>)
                     }
                 </div>
-                <button className='mt-20 text-2xl bg-lime-600 text-white px-4 py-2 rounded-sm'>See All Reviews</button>
+                <Link to='/reviews'>
+                    <button className='mt-20 text-2xl bg-lime-600 text-white px-4 py-2 rounded-sm hover:bg-lime-700 font-serif'>See All Reviews</button>
+                </Link>
             </div>
 
         </div>
