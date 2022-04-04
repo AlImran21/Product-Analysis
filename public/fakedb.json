@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "picture": "https://media.istockphoto.com/photos/headshot-of-a-teenage-boy-picture-id1158014305?k=20&m=1158014305&s=612x612&w=0&h=RgcRlPfHFZA4OWSROC46FgBILIQVyiS6o_EmyZAMt4M=",
+      "name": "Mahmud",
+      "comment": "As a learner I have really benefited a lot from reading this book.",
+      "rating": "4.6"
+    },
+    {
+      "id": 2,
+      "picture": "https://stylesatlife.com/wp-content/uploads/2019/06/The-Good-Boy-Look.jpg",
+      "name": "Roni",
+      "comment": "I ordered the book after hearing it in public. The presentation of the book was really awesome.",
+      "rating": "5"
+    },
+    {
+      "id": 3,
+      "picture": "https://haircutinspiration.com/wp-content/uploads/Comb-over.jpg",
+      "name": "Oli",
+      "comment": "One thing that gave me the most courage and that is that I can too.",
+      "rating": "4.5"
+    },
+    {
+      "id": 4,
+      "picture": "https://mensgear.b-cdn.net/wp-content/uploads/2021/09/Crew-Cut-Haircut-Style-for-Men-.jpeg",
+      "name": "Nayem",
+      "comment": "Full of fluent language and practical knowledge.",
+      "rating": "5"
+    },
+    {
+      "id": 5,
+      "picture": "https://www.menshairstylesnow.com/wp-content/uploads/2018/01/Ivy-League-Haircut-Side-Part.jpg",
+      "name": "Masum",
+      "comment": "There are so many talented programmers in our country. This book is an example of this.",
+      "rating": "4"
+    },
+    {
+      "id": 6,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1Y4DxIEeZatGFNuNggekvOyyTgHdNcqVkg&usqp=CAU",
+      "name": "Sajib",
+      "comment": "Thank you for gifting such a beautiful resource.",
+      "rating": "4.5"
+    }
+  ]
