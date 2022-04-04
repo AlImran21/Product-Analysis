@@ -29,7 +29,7 @@ const Home = () => {
                         ></Reviews>)
                     }
                 </div>
-                <button className='mt-20 text-3xl bg-lime-600 text-white px-4 py-2 rounded-sm'>See All Reviews</button>
+                <button className='mt-20 text-2xl bg-lime-600 text-white px-4 py-2 rounded-sm'>See All Reviews</button>
             </div>
 
         </div>
